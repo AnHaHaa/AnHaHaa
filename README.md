@@ -4,8 +4,10 @@
 <div align="center">
 <h2>🌗 About Me 🌗</h2>
   <h5>이제 막 경험을 쌓기 시작한 주니어 개발자입니다 :)</h5>
-  <h5>아직 많이 부족하지만 조금씩 저만의 Stack을 쌓아갈 수 있는 개발자가 되고자 합니다.</h5>
+  <h5>🎓멀티캠퍼스 풀스택 개발자 취업캠프 수료 </h5>
+  <h5>📓 Notion : https://last-quarter-moon.notion.site/An-HaHyeon-725f556f8a0142349638ff0ac7bac98b?pvs=4</h5>
   <br>
+  
 <h2>🗂️ Skills 🗂️</h2>
   <h3>🌟Skills used in Projects🌟</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
